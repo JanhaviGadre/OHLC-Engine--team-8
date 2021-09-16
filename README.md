@@ -1,19 +1,19 @@
 # OHLC-Engine--team-8
 
-GROUP NUMBER:08
-Table of Contents:
-  1.Team Members
-  2.Problem Statement
-  3.Technologies Used
-  4. Alternative Approaches
+#GROUP NUMBER:08
+#Table of Contents:
+ #1.Team Members
+  #2.Problem Statement
+ # 3.Technologies Used
+ # 4. Alternative Approaches
   
 1.Team Members:
-  Janhavi Gadre
-	Sakshi Khanapure
-	Bhakti Kulkarni
-	Sai Gokhale
-	Prajakta Deokule
-	
+Janhavi Gadre
+Sakshi Khanapure
+Bhakti Kulkarni
+Sai Gokhale
+Prajakta Deokule
+
 2.Problem Statement:
 Create a Dashboard based on which User would be able to analyze the sentiment of the specific 
 stock. You’re required to create an Analytical Server "OHLC" (Open/High/Low/Close) time series 
