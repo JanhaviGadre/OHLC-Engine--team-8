@@ -1,11 +1,11 @@
 # OHLC-Engine--team-8
 
-#GROUP NUMBER:08
-#Table of Contents:
- #1.Team Members
-  #2.Problem Statement
- # 3.Technologies Used
- # 4. Alternative Approaches
+*GROUP NUMBER:08
+*Table of Contents:
+ 1.Team Members
+ 2.Problem Statement
+ 3.Technologies Used
+ 4. Alternative Approaches
   
 1.Team Members:
 Janhavi Gadre
